@@ -12,4 +12,5 @@ author kkasutaja
 - Player ID
 
   **Preview**
-![preview|345x87]([upload://xH0RXvNfFOLVwVHklbE86xwJGDm.png](https://ibb.co/qYfS7sTG))
+
+<img width="345" height="87" alt="Screenshot 2026-02-22 032009" src="https://github.com/user-attachments/assets/2b9bc434-65b5-4880-9a75-cd0a2485d53e" />
