@@ -12,4 +12,4 @@ author kkasutaja
 - Player ID
 
   **Preview**
-![Screenshot 2026-02-22 032009|345x87](upload://xH0RXvNfFOLVwVHklbE86xwJGDm.png)
+![preview|345x87]([upload://xH0RXvNfFOLVwVHklbE86xwJGDm.png](https://ibb.co/qYfS7sTG))
